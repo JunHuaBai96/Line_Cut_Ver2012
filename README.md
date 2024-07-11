@@ -14,26 +14,8 @@
 
 ![image](https://github.com/JunHuaBai96/Line_Cut_Ver20/assets/102909786/0b622a2f-6596-42f4-b785-c0135abccffe)
 
-## MATLAB插件Linecut的下载及运行
-MATLAB的使用范围是十分广泛的。在国外，MATLAB的熟练使用是理工科学生的“生存必备技能”之一。
-
-由于MATLAB各个版本的安装方法在其他地方已经较为广泛地讨论了，在这里便不加赘言。
-
-今天要介绍的这款插件也是我在Google搜索“晶粒尺寸测量”的过程中偶然发现的。该插件可以在MathWorks中国的社区中被搜索到，其最后更新日期为2012年。
-
-![image](https://github.com/JunHuaBai96/Line_Cut_Ver20/assets/102909786/d5db3830-69ca-4213-b362-2e0b40b0fc65)
-
-当然我们也可以直接使用Google或百度进行搜索得到其下载链接。其下载和使用都是免费的。
-
-该插件介绍页面上有详细的视频教程。不过该教程使用英文解说，并且存储在Youtube上，除非“渴学尚往”，否则国内网络无法对其进行访问。关于“渴学尚往”的具体方法请大家自行搜索。
-
-如下图，点击“Download”之后我们便可以开始下载其压缩包文件。
-
-![image](https://github.com/JunHuaBai96/Line_Cut_Ver20/assets/102909786/ead10001-3762-4c04-88a6-5dd8a32d0d87)
-
-将压缩包移动至合适位置（笔者会在F盘建立一个MATLAB Toolbox文件夹专门存放MATLAB插件工具），解压至Line_Cut_Ver2012文件夹（默认文件夹名称）。
-
-这时候可以打开MATLAB，将工作目录地址移至Line_Cut_Ver2012文件夹。接下来，笔者会以MATLAB 2016b为例给大家演示。
+## MATLAB插件Linecut的运行
+打开MATLAB，将工作目录地址移至Line_Cut_Ver2012文件夹。接下来，笔者会以MATLAB 2016b为例给大家演示。
 
 ![image](https://github.com/JunHuaBai96/Line_Cut_Ver20/assets/102909786/e52af5d0-c890-4355-8434-8880e1436827)
 
